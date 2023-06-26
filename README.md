@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Kumari-430
-- 👀 I’m interested in full stack webdevelopment.
-- 🌱 I’m currently learning full stack webdevelopment course.
-- 💞️ I’m looking to collaborate on building new projects.
-- 📫 How to reach me ...
+# Shopping Cart Built in React JS with Context API and useReducer
 
-<!---
-Kumari-430/Kumari-430 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Live Demo - https://shopping-cart-with-reactjs.netlify.app/
+## [Watch Full Tutorial on Roadside Coder Channel](https://www.youtube.com/roadsidecoder)
+
+![SHOPPING CART](https://user-images.githubusercontent.com/51760520/137257892-5bc9526b-4c59-4054-b255-337dc2c90123.png)

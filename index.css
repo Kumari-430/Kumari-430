@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAHgAwAMBIgACEQEDEQH/xAAaAAEAAwEBAQAAAAAAAAAAAAAEAgMFAAEG/8QAIRAAAwEBAAMAAgMBAAAAAAAAAAIDAWEEEhMhMREUQVH/xAAYAQEBAQEBAAAAAAAAAAAAAAABAAIDBP/EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/APgkQQkyM8FzU9kjyWopIuWJdOYmczeM2jJAuTxxSSEzkPLOhp43C5fG4PnHgicODyOmcnjcLV8XhqJDhcvj8LB0yV8XhL+pw2V8fhL+vwlrE/q8I74nDd/r5/wi3j8IawG8XhU3jcN9/H4UPDhYemC/jcKH8fhu0jwPSP8AH+Fh1iPDhS0DYeXA7yM8tayGiVPI1HnwPSZYtZjzKHQ0KKEphixuV7IdEBLR8dGCmTwVPA0tFT06MUiaipqGnoqYskzUVNCiYmYs1dNBCIVz/wAEoFT1Z4TyeElLMwylOzwg08ENhBhQjoHogxw9BQVEDUQZQLUSFRcDUUXULTQIlMDUz9iqb+AtdAh2BV/Yy2gq6c66RCWjo6Z0tHR0oa0Jb+BU9AyYVNjbnTp6KnoGTC5saZOmwuegJsKmxCnz0QmgpMJRiBaaWZodGLMYylm6Vtp5rFbMSRfQ1NLHYPRv2aiU00LXS6jBKsRimmhKaX0YJRirSmmhq6W0YNVjJg1dA00VZgVDFdIjLRkdAS0XLQirQmwmbAZsIRjoxjQmwqbmdN/wJm4stKbCpuZs3/AqbiGjNxCOZ86F6U6QxoK5ZjgFp0nlOlgL1yDOH2nSDU6WHFjuHo5F6FD0JY8o4Wj/ALJUcNRyKFWC0YnRw1GAq6MGoxY7BqMZaU20HTRFdCU0xW4gmip6DmJnoQ02bF6MCRi9GNxg6biJuARul83NBopQSlDNRy9KEMaaULkoZqU6XLU1oaK1J5Uz8qSypA76kGqE+pDakiXoUvQpapQ9QpWUoHo5F6B3fpGR7Rwzt/JzuUM5kudg9GJOxQ+hpVvoWm/kvfQz/szW4imiE0LPRCaENhC6WqwddJ4xqMlo5cjgVbpajjoPRy5KAFctWghoJUtWpnrQsWo6MPyvSX16AyvSX1JYb9ekdr0J9SO16SwpqlLUKNp0ranS1YtehUzlbP0qagaUncpZyLOVMwWlJmKm07WK90yYi+lD6Wvod9CtRFNL10KjFysENIzSWMUYx77mgRjE1cL7nuOQNWhYtQGU6TynR0Y0Fr0nlTOyvSeV6WjGj9TvqA+3Tvt0tWH/AFPNqC+3SO26WrDdqQ2oTa9IbUtOFNQragfadIbQtWL2chrFOueawFbrEd0r9zzWIvXYpfT1mKm0zSrXSxWOOMlL2PfY44tT33O9zw4dD33JY54cSSxz36fwccSe/Q9+hxxanfQ8+hxxanm0PNppxxJ57kfc44k73O9zw4tTvY73OOLShrEG044E/9k=");
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#filter-section{
+  color: #400261;
+  font-size: 20px;
+}
